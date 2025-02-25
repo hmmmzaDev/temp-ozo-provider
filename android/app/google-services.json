@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "878599614000",
+    "project_id": "ozo-wash",
+    "storage_bucket": "ozo-wash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878599614000:android:21ab8c5fd5476b273387f5",
+        "android_client_info": {
+          "package_name": "com.ozowash.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8d7ohVVmSTZ87EApsEgznJPMjMbR-oiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878599614000:android:f6df790ce17e35003387f5",
+        "android_client_info": {
+          "package_name": "com.ozowash.sman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8d7ohVVmSTZ87EApsEgznJPMjMbR-oiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878599614000:android:bc7455c011e0afb93387f5",
+        "android_client_info": {
+          "package_name": "com.ozowash.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878599614000-k2nfha3i7opiiet70vevp78noo04blpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozowash.user",
+            "certificate_hash": "e854025d5a99ae93129eb7fe022ef34e4d053c27"
+          }
+        },
+        {
+          "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8d7ohVVmSTZ87EApsEgznJPMjMbR-oiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878599614000-squ48its6hcq8g27a12h8nllhsp3qd2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
